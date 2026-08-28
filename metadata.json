@@ -1,0 +1,6 @@
+{
+  "name": "VisionFlow AI",
+  "description": "Futuristic multimodal AI creative assistant combining computer vision, real-time hand gesture tracking, voice commands, AI image search, generation, and interactive canvas editing.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
